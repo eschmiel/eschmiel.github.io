@@ -1,0 +1,3 @@
+## 4 Global Game Jams, 3 Ludum Dares and 1 Emotional Mecha Jam
+
+I am a web developer based in Richmond, Virginia with strong roots in my local game development community. I have attempted to learn programming off and on for most of my life, from taking C++ and Java courses in high school to attempting to read through an entire copy of J2EE: The Complete Reference cover to cover after college but it wasn't until I started working in game development that I started to really feel like I was capable of developing an application.
