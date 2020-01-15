@@ -4,6 +4,7 @@
 
 [Resume](https://docs.google.com/document/d/1OuwOtyjwbzjyGBcxnRT7GuB5rxR4bMZU5Pd5HBFlUKA/edit?usp=sharing)
 <br/>
+<br/>
 
 ---
 
@@ -22,8 +23,8 @@ Hand coded a static website built with vanilla HTML5, CSS3 and Javascript for a 
 [Local Library Test Site](https://eschmiel.github.io/locallibrary.md)
 
 Built a practice local library site following the Mozilla Developer Network Express tutorial using Node.js, Express, MongoDB and Mongoose.
-
 <br/>
+
 ---
 
 <br/>
@@ -33,9 +34,9 @@ Built a practice local library site following the Mozilla Developer Network Expr
 
 ## Contact
 [eschmiel@gmail.com](eschmiel@gmail.com)
-<br/>
+
 [Twitter](www.twitter.com/eschmiel)
 <br/>
 [Instagram](www.instagram.com/eric_schmiel)
 <br/>
-[Itch](https://eschmiel.itch.io/)
+[Itch.io](https://eschmiel.itch.io/)
