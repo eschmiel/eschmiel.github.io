@@ -32,10 +32,10 @@ Built a practice local library site following the Mozilla Developer Network Expr
 [Community Involvement](https://eschmiel.github.io/community)
 
 ## Contact
-[eschmiel@gmail.com](eschmiel@gmail.com)
+[eschmiel@gmail.com](mailto:eschmiel@gmail.com)
 
-[Twitter](www.twitter.com/eschmiel)
+[Twitter](https://www.twitter.com/eschmiel)
 <br/>
-[Instagram](www.instagram.com/eric_schmiel)
+[Instagram](https://www.instagram.com/eric_schmiel)
 <br/>
 [Itch.io](https://eschmiel.itch.io)
