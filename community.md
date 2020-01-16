@@ -19,9 +19,9 @@ On accessiblity in game design
 
 Presentations after the Ludum Dare 45 game jam, hosted at Work & Friends
 
-![Image of LD45 1](https://eschmiel.github.io/ld45-1)
-![Image of LD45 1](https://eschmiel.github.io/ld45-2)
-![Image of LD45 1](https://eschmiel.github.io/ld45-3)
+![Image of LD45 1](https://eschmiel.github.io/ld45-1.jpg)
+![Image of LD45 1](https://eschmiel.github.io/ld45-2.jpg)
+![Image of LD45 1](https://eschmiel.github.io/ld45-3.jpg)
 
 <hr/>
 
