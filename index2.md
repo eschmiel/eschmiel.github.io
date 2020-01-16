@@ -14,7 +14,7 @@
 
 [2D Side Scrolling Platformer (Prototype)](http://www.studioschmiel.com/)
 
-A 2D side scrolling game engine written with Javascript and Bitmelo. ([Github](https://github.com/eschmiel/bitmelo-platformer-prototype))
+A 2D side scrolling prototype written with Javascript and Bitmelo. ([Github](https://github.com/eschmiel/bitmelo-platformer-prototype))
 
 <br/>
 [T57-001 Website](http://www.studioschmiel.com/index2.html)
@@ -40,4 +40,4 @@ Built a practice local library site following the Mozilla Developer Network Expr
 [Instagram](www.instagram.com/eric_schmiel)
 <br/>
 <br/>
-[Itch.io](https://eschmiel.itch.io/index2)
+[Itch.io](https://eschmiel.itch.io)
