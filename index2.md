@@ -36,6 +36,8 @@ Built a practice local library site following the Mozilla Developer Network Expr
 
 [Twitter](www.twitter.com/eschmiel)
 <br/>
+<br/>
 [Instagram](www.instagram.com/eric_schmiel)
 <br/>
-[Itch.io](https://eschmiel.itch.io/)
+<br/>
+[Itch.io](https://eschmiel.itch.io/index2)
