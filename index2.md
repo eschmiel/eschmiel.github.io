@@ -12,17 +12,17 @@
 
 ### Web Development Projects
 
-[2D Side Scrolling Platformer (Prototype)](https://eschmiel.github.io/bitmelo.md)
+[2D Side Scrolling Platformer (Prototype)](http://www.studioschmiel.com/)
 
 A 2D side scrolling game engine written with Javascript and Bitmelo. ([Github](https://github.com/eschmiel/bitmelo-platformer-prototype))
 
 <br/>
-[T57-001 Website](https://eschmiel.github.io/T57-001.md)
+[T57-001 Website](http://www.studioschmiel.com/index2.html)
 
 Hand coded a static website built with vanilla HTML5, CSS3 and Javascript for a game prototype made for the 2019 Emotional Mecha Jam. I served as the narrative designer on the project. ([Github](https://github.com/eschmiel/T57-001))
 
 <br/>
-[Local Library Test Site](https://eschmiel.github.io/locallibrary.md)
+[Local Library Test Site](https://github.com/eschmiel/expressTut)
 
 Built a practice local library site following the Mozilla Developer Network Express tutorial using Node.js, Express, MongoDB and Mongoose. ([Github](https://github.com/eschmiel/expressTut))
 <br/>
