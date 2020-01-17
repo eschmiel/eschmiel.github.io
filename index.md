@@ -2,7 +2,7 @@
 
 >I am a web developer based in Richmond, Virginia with strong roots in my local game development community. I originally got the hands-on experience I needed to build my programming proficiency through game development and the influence of that foundation is clear in my web work. My personal work is currently focused on developing small tools for digital creatives and their communities that will help them manage their social media presences.
 
-[Resume](https://docs.google.com/document/d/1sbLcDlgm64UvJl-gGS4YM8-E01qzxTxadQ0qVhiQO2o/edit?usp=sharing)
+[Resume](https://studioschmiel.com/resume.pdf)
 
 [Github](https://github.com/eschmiel)
 <br/>
@@ -12,12 +12,12 @@
 
 ### Web Development Projects
 
-[2D Side-Scrolling Platformer (Prototype)](http://www.studioschmiel.com/)
+[2D Side-Scrolling Platformer (Prototype)](http://www.studioschmiel.com/platformer.html)
 
 A 2D side-scrolling prototype written with Javascript and Bitmelo. Use the arrow keys to move around. ([Github](https://github.com/eschmiel/bitmelo-platformer-prototype))
 
 <br/>
-[T57-001 Website](http://www.studioschmiel.com/index2.html)
+[T57-001 Website](http://www.studioschmiel.com/t57-001.html)
 
 Hand coded a static website built with vanilla HTML5, CSS3 and Javascript for a game prototype made for the 2019 Emotional Mecha Jam. I served as the narrative designer on the project. ([Github](https://github.com/eschmiel/T57-001))
 
