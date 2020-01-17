@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## 4 Global Game Jams, 3 Ludum Dares and 1 Emotional Mecha Jam
 
-You can use the [editor on GitHub](https://github.com/eschmiel/eschmiel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+>I am a web developer based in Richmond, Virginia with strong roots in my local game development community. I originally got the hands-on experience I needed to build my programming proficiency through game development and the influence of that foundation is clear in my web work. My personal work is currently focused on developing small tools for digital creatives and their communities that will help them manage their social media presences.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Resume](https://docs.google.com/document/d/1sbLcDlgm64UvJl-gGS4YM8-E01qzxTxadQ0qVhiQO2o/edit?usp=sharing)
 
-### Markdown
+[Github](https://github.com/eschmiel)
+<br/>
+<br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+### Web Development Projects
 
-# Header 1
-## Header 2
-### Header 3
+[2D Side-Scrolling Platformer (Prototype)](http://www.studioschmiel.com/)
 
-- Bulleted
-- List
+A 2D side-scrolling prototype written with Javascript and Bitmelo. Use the arrow keys to move around. ([Github](https://github.com/eschmiel/bitmelo-platformer-prototype))
 
-1. Numbered
-2. List
+<br/>
+[T57-001 Website](http://www.studioschmiel.com/index2.html)
 
-**Bold** and _Italic_ and `Code` text
+Hand coded a static website built with vanilla HTML5, CSS3 and Javascript for a game prototype made for the 2019 Emotional Mecha Jam. I served as the narrative designer on the project. ([Github](https://github.com/eschmiel/T57-001))
 
-[Link](url) and ![Image](src)
-```
+<br/>
+[Local Library Test Site](https://fierce-shelf-75770.herokuapp.com/catalog)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Built a practice local library site following the Mozilla Developer Network Express tutorial using Node.js, Express, MongoDB and Mongoose. Add yourself as an author so I know you visited! ([Github](https://github.com/eschmiel/expressTut))
+<br/>
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eschmiel/eschmiel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Community Involvement](https://eschmiel.github.io/community)
 
-### Support or Contact
+## Contact
+[eschmiel@gmail.com](mailto:eschmiel@gmail.com)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Twitter](https://www.twitter.com/eschmiel)
+<br/>
+[Instagram](https://www.instagram.com/eric_schmiel)
+<br/>
+[Itch.io](https://eschmiel.itch.io)

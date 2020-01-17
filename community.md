@@ -28,4 +28,4 @@ Presentations after the Ludum Dare 45 game jam, hosted at Work & Friends
 
 <hr/>
 
-[Home](https://eschmiel.github.io/index2) 
+[Home](https://eschmiel.github.io/) 
