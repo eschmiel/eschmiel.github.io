@@ -1,0 +1,1 @@
+![Social Media Toggle by Eric Schmiel logo](https://eschmiel.github.io/smt-logo.png)
