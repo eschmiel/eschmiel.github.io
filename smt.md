@@ -78,7 +78,11 @@ outdated notices off and toggling new tweets that represent the current state of
 
 ![SMT services diagram](https://eschmiel.github.io/smt-services.png)
 
+<br/>
+
 - Implemented CRUD operations through API
+
+<br/>
 
 ![SMT tweet DAL](https://eschmiel.github.io/SMT-tweet-DAL.png)
 
