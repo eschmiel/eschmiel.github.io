@@ -56,24 +56,24 @@ outdated notices off and toggling new tweets that represent the current state of
 - Node.js
 - Express.js
 
+<br/>
+
 ![SMT backend logical diagram](https://eschmiel.github.io/SMT-logical-diagram.png)
 
 - A RESTful API
 
-    var express = require('express');
-    var router = express.Router();
-    var tweetController = require('../controllers/tweetController.js');
+![Tweet Router code](https://eschmiel.github.io/tweetRouter.png)
 
+- Invokes external REST services (Twitter)
+- Handled Oauth authorization
+- User account system with user sessions and authentication (built with Passport.js)
 
-    router.get('/getUserTweets', tweetController.getUserTweets);
+<br/>
 
-    router.post('/createTweet', tweetController.createTweet);
+![SMT services diagram](https://eschmiel.github.io/smt-services.png)
 
-    router.post('/editTweet/:post_id', tweetController.editTweet);
+-Implemented CRUD operations trhough API
 
-    router.post('/toggleTweet/:post_id', tweetController.toggleTweet);
+![SMT tweet DAL](https://eschmiel.github.io/SMT-tweet-DAL.png)
 
-    router.post('/deleteTweet/:post_id', tweetController.deleteTweet);
-    
-    
-    module.exports = router;
+![SMT accounts DAL](https://eschmiel.github.io/SMT-accounts-DAL.png)
