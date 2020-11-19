@@ -22,11 +22,17 @@ outdated notices off and toggling new tweets that represent the current state of
 
 ![gif showing off the MVP of the SMT](https://eschmiel.github.io/smt-mvp.gif)
 
+<br/>
+
 ---
 
 ## Use Case diagram and documents
 
+<br/>
+
 ![Use Case Diagram](https://eschmiel.github.io/SMT-use-case.png)
+
+<br/>
 
 ![Create Account Use Case](https://eschmiel.github.io/use-case-create-account.png)
 
