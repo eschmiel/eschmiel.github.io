@@ -18,6 +18,18 @@ was built to address these problems.
 The Social Media Toggle allows users to manage their profiles in a quick and convenient way. By creating pre-written tweets before they start streaming, users can quickly update their going live notices on Twitter by toggling
 outdated notices off and toggling new tweets that represent the current state of the stream on with the click of a button. Once they're finished streaming, they can simply toggle their dead streaming notices off.
 
+<br/>
+
 ![gif showing off the MVP of the SMT](https://eschmiel.github.io/smt-mvp.gif)
 
-![pdf of Create Account Use Case](https://eschmiel.github.io/Use_Case_Create_Account.pdf)
+---
+
+## Use Case diagram and documents
+
+![Use Case Diagram](https://eschmiel.github.io/SMT-use-case.png)
+
+![Create Account Use Case](https://eschmiel.github.io/use-case-create-account.png)
+
+[Use Case documents](https://drive.google.com/drive/folders/1E_K8H-9OMsDODiz7Er63GX56ch23hH9I?usp=sharing)
+
+---
