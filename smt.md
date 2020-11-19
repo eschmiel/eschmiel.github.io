@@ -45,6 +45,35 @@ outdated notices off and toggling new tweets that represent the current state of
 - PostgreSQL
 - Deployed on AWS
 
+<br/>
+
 ![SMT Database diagram](https://eschmiel.github.io/SMT-Database.png)
 
 ---
+
+## The Backend
+
+- Node.js
+- Express.js
+
+![SMT backend logical diagram](https://eschmiel.github.io/SMT-logical-diagram.png)
+
+- A RESTful API
+
+    var express = require('express');
+    var router = express.Router();
+    var tweetController = require('../controllers/tweetController.js');
+
+
+    router.get('/getUserTweets', tweetController.getUserTweets);
+
+    router.post('/createTweet', tweetController.createTweet);
+
+    router.post('/editTweet/:post_id', tweetController.editTweet);
+
+    router.post('/toggleTweet/:post_id', tweetController.toggleTweet);
+
+    router.post('/deleteTweet/:post_id', tweetController.deleteTweet);
+    
+    
+    module.exports = router;
