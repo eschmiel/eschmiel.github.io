@@ -39,3 +39,12 @@ outdated notices off and toggling new tweets that represent the current state of
 [Use Case documents](https://drive.google.com/drive/folders/1E_K8H-9OMsDODiz7Er63GX56ch23hH9I?usp=sharing)
 
 ---
+
+## The Database
+
+- PostgreSQL
+- Deployed on AWS
+
+![SMT Database diagram](https://eschmiel.github.io/SMT-Database.png)
+
+---
