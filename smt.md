@@ -19,3 +19,5 @@ The Social Media Toggle allows users to manage their profiles in a quick and con
 outdated notices off and toggling new tweets that represent the current state of the stream on with the click of a button. Once they're finished streaming, they can simply toggle their dead streaming notices off.
 
 ![gif showing off the MVP of the SMT](https://eschmiel.github.io/smt-mvp.gif)
+
+![pdf of Create Account Use Case](https://eschmiel.github.io/Use_Case_Create_Account.pdf)
