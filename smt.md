@@ -60,9 +60,15 @@ outdated notices off and toggling new tweets that represent the current state of
 
 ![SMT backend logical diagram](https://eschmiel.github.io/SMT-logical-diagram.png)
 
+<br/>
+
 - A RESTful API
 
+<br/>
+
 ![Tweet Router code](https://eschmiel.github.io/tweetRouter.png)
+
+<br/>
 
 - Invokes external REST services (Twitter)
 - Handled Oauth authorization
@@ -72,8 +78,18 @@ outdated notices off and toggling new tweets that represent the current state of
 
 ![SMT services diagram](https://eschmiel.github.io/smt-services.png)
 
--Implemented CRUD operations trhough API
+- Implemented CRUD operations through API
 
 ![SMT tweet DAL](https://eschmiel.github.io/SMT-tweet-DAL.png)
 
 ![SMT accounts DAL](https://eschmiel.github.io/SMT-accounts-DAL.png)
+
+<br/>
+
+- Created a SQL manager
+
+<br/>
+
+![SQL manager code](https://eschmiel.github.io/sql-manager.png)
+
+---
