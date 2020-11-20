@@ -64,7 +64,7 @@ outdated notices off and toggling new tweets that represent the current state of
 
 ---
 
-- A RESTful API
+### A RESTful API
 
 <br/>
 
@@ -74,9 +74,9 @@ outdated notices off and toggling new tweets that represent the current state of
 
 ---
 
-- Invokes external REST services (Twitter)
-- Handled Oauth authorization
-- User account system with user sessions and authentication (built with Passport.js)
+### Invokes external REST services (Twitter)
+### Handled Oauth authorization
+### User account system with user sessions and authentication (built with Passport.js)
 
 <br/>
 
@@ -86,7 +86,7 @@ outdated notices off and toggling new tweets that represent the current state of
 
 ---
 
-- Implemented CRUD operations through API
+### Implemented CRUD operations through API
 
 <br/>
 
@@ -98,7 +98,7 @@ outdated notices off and toggling new tweets that represent the current state of
 
 ---
 
-- Created a SQL manager
+### Created a SQL manager
 
 <br/>
 
