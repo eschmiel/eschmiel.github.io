@@ -57,14 +57,14 @@ outdated notices off and toggling new tweets that represent the current state of
 - Express.js
 - A RESTful API
 - Invokes external REST services (Twitter)
-- Handled Oauth authorization
+- Handles Oauth authorization
 - User account system with user sessions and authentication (built with Passport.js)
-- Implemented CRUD operations through API
-- Created a SQL manager
+- Implements CRUD operations through API
+- Has a SQL manager
 
 <br/>
 
-![SMT backend logical diagram](https://eschmiel.github.io/SMT-logical-diagram.png)
+![SMT backend logical diagram](https://eschmiel.github.io/SMT-logical-diagram.svg)
 
 
 <br/>
