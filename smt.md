@@ -62,6 +62,8 @@ outdated notices off and toggling new tweets that represent the current state of
 
 <br/>
 
+---
+
 - A RESTful API
 
 <br/>
@@ -69,6 +71,8 @@ outdated notices off and toggling new tweets that represent the current state of
 ![Tweet Router code](https://eschmiel.github.io/tweetRouter1.png)
 
 <br/>
+
+---
 
 - Invokes external REST services (Twitter)
 - Handled Oauth authorization
@@ -80,6 +84,8 @@ outdated notices off and toggling new tweets that represent the current state of
 
 <br/>
 
+---
+
 - Implemented CRUD operations through API
 
 <br/>
@@ -89,6 +95,8 @@ outdated notices off and toggling new tweets that represent the current state of
 ![SMT accounts DAL](https://eschmiel.github.io/SMT-accounts-DAL.png)
 
 <br/>
+
+---
 
 - Created a SQL manager
 
