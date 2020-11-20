@@ -105,3 +105,14 @@ outdated notices off and toggling new tweets that represent the current state of
 ![SQL manager code](https://eschmiel.github.io/sql-manager.png)
 
 ---
+
+## The Frontend
+
+- React
+- UI populated through API calls
+- Frontend user sessions in sync with backend user sessions through a session id cookie
+- Manipulates database information and engages with Twitter through backend API calls
+
+<br/>
+
+![SMT UI diagram](https://eschmiel.github.io/SMT-UI.png)
