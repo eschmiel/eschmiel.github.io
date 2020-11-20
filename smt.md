@@ -30,7 +30,7 @@ outdated notices off and toggling new tweets that represent the current state of
 
 <br/>
 
-![Use Case Diagram](https://eschmiel.github.io/SMT-use-case.png)
+[![Use Case Diagram](https://eschmiel.github.io/SMT-use-case.svg)](https://eschmiel.github.io/SMT-use-case.svg)
 
 <br/>
 
@@ -47,7 +47,7 @@ outdated notices off and toggling new tweets that represent the current state of
 
 <br/>
 
-![SMT Database diagram](https://eschmiel.github.io/SMT-Database.png)
+[(![SMT Database diagram](https://eschmiel.github.io/SMT-Database.svg)](https://eschmiel.github.io/SMT-Database.svg)
 
 ---
 
@@ -69,13 +69,13 @@ outdated notices off and toggling new tweets that represent the current state of
 
 <br/>
 
-![SMT services diagram](https://eschmiel.github.io/smt-services.png)
+![SMT services diagram](https://eschmiel.github.io/smt-services.svg)
 
 <br/>
 
-![SMT tweet DAL](https://eschmiel.github.io/SMT-tweet-DAL.png)
+![SMT tweet DAL](https://eschmiel.github.io/SMT-tweets.svg)
 
-![SMT accounts DAL](https://eschmiel.github.io/SMT-accounts-DAL.png)
+![SMT accounts DAL](https://eschmiel.github.io/SMT-accounts-DAL.svg)
 
 <br/> 
 
@@ -90,4 +90,4 @@ outdated notices off and toggling new tweets that represent the current state of
 
 <br/>
 
-![SMT UI diagram](https://eschmiel.github.io/SMT-UI.png)
+![SMT UI diagram](https://eschmiel.github.io/SMT-UI.svg)
