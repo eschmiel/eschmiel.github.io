@@ -20,7 +20,7 @@ outdated notices off and toggling new tweets that represent the current state of
 
 <br/>
 
-![gif showing off the MVP of the SMT](https://eschmiel.github.io/smt-mvp.gif)
+[![gif showing off the MVP of the SMT](https://eschmiel.github.io/smt-mvp.gif)](https://eschmiel.github.io/smt-mvp.gif)
 
 <br/>
 
@@ -34,7 +34,7 @@ outdated notices off and toggling new tweets that represent the current state of
 
 <br/>
 
-![Create Account Use Case](https://eschmiel.github.io/use-case-create-account.png)
+[![Create Account Use Case](https://eschmiel.github.io/use-case-create-account.png)](https://eschmiel.github.io/use-case-create-account.png)
 
 [Use Case documents](https://drive.google.com/drive/folders/1E_K8H-9OMsDODiz7Er63GX56ch23hH9I?usp=sharing)
 
@@ -47,7 +47,7 @@ outdated notices off and toggling new tweets that represent the current state of
 
 <br/>
 
-[(![SMT Database diagram](https://eschmiel.github.io/SMT-Database.svg)](https://eschmiel.github.io/SMT-Database.svg)
+[![SMT Database diagram](https://eschmiel.github.io/SMT-Database.svg)](https://eschmiel.github.io/SMT-Database.svg)
 
 ---
 
@@ -64,18 +64,18 @@ outdated notices off and toggling new tweets that represent the current state of
 
 <br/>
 
-![SMT backend logical diagram](https://eschmiel.github.io/SMT-logical-diagram.svg)
+[![SMT backend logical diagram](https://eschmiel.github.io/SMT-logical-diagram.svg)](https://eschmiel.github.io/SMT-logical-diagram.svg)
 
 
 <br/>
 
-![SMT services diagram](https://eschmiel.github.io/smt-services.svg)
+[![SMT services diagram](https://eschmiel.github.io/SMT-services.svg)](https://eschmiel.github.io/SMT-services.svg)
 
 <br/>
 
-![SMT tweet DAL](https://eschmiel.github.io/SMT-tweets.svg)
+[![SMT tweet DAL](https://eschmiel.github.io/SMT-tweets.svg)](https://eschmiel.github.io/SMT-tweets.svg)
 
-![SMT accounts DAL](https://eschmiel.github.io/SMT-accounts-DAL.svg)
+[![SMT accounts DAL](https://eschmiel.github.io/SMT-accounts-DAL.svg)](https://eschmiel.github.io/SMT-accounts-DAL.svg)
 
 <br/> 
 
@@ -90,4 +90,4 @@ outdated notices off and toggling new tweets that represent the current state of
 
 <br/>
 
-![SMT UI diagram](https://eschmiel.github.io/SMT-UI.svg)
+[![SMT UI diagram](https://eschmiel.github.io/SMT-UI.svg)](https://eschmiel.github.io/SMT-UI.svg)
