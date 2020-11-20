@@ -55,28 +55,17 @@ outdated notices off and toggling new tweets that represent the current state of
 
 - Node.js
 - Express.js
+- A RESTful API
+- Invokes external REST services (Twitter)
+- Handled Oauth authorization
+- User account system with user sessions and authentication (built with Passport.js)
+- Implemented CRUD operations through API
+- Created a SQL manager
 
 <br/>
 
 ![SMT backend logical diagram](https://eschmiel.github.io/SMT-logical-diagram.png)
 
-<br/>
-
----
-
-### A RESTful API
-
-<br/>
-
-![Tweet Router code](https://eschmiel.github.io/tweetRouter1.png)
-
-<br/>
-
----
-
-### Invokes external REST services (Twitter)
-### Handled Oauth authorization
-### User account system with user sessions and authentication (built with Passport.js)
 
 <br/>
 
@@ -84,25 +73,11 @@ outdated notices off and toggling new tweets that represent the current state of
 
 <br/>
 
----
-
-### Implemented CRUD operations through API
-
-<br/>
-
 ![SMT tweet DAL](https://eschmiel.github.io/SMT-tweet-DAL.png)
 
 ![SMT accounts DAL](https://eschmiel.github.io/SMT-accounts-DAL.png)
 
-<br/>
-
----
-
-### Created a SQL manager
-
-<br/>
-
-![SQL manager code](https://eschmiel.github.io/sql-manager.png)
+<br/> 
 
 ---
 
