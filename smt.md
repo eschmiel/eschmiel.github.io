@@ -3,6 +3,7 @@
 ## A web app built with React, Node.js, Express.js, Passport and PostgreSQL
 
 ---
+[Web App](https://studioschmiel.com/socialMediaToggle.html) [Github Repo](https://github.com/eschmiel/smtBackendPublic)
 
 ## What is it?
 
@@ -91,3 +92,5 @@ outdated notices off and toggling new tweets that represent the current state of
 <br/>
 
 [![SMT UI diagram](https://eschmiel.github.io/SMT-UI.svg)](https://eschmiel.github.io/SMT-UI.svg)
+
+[![gif showing off the UI of the SMT](https://eschmiel.github.io/SMT-UI-Demo.gif)](https://eschmiel.github.io/SMT-UI-Demo.gif)
