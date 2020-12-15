@@ -93,8 +93,6 @@ outdated notices off and toggling new tweets that represent the current state of
 
 [![gif showing off the UI of the SMT](https://eschmiel.github.io/SMT-UI-Demo.gif)](https://eschmiel.github.io/SMT-UI-Demo.gif)
 
-![SMT UI Mockups](https://eschmiel.github.io/SMT-UI-Mockups.svg)
-
 [![SMT UI diagram](https://eschmiel.github.io/SMT-UI.svg)](https://eschmiel.github.io/SMT-UI.svg)
 
 ---
