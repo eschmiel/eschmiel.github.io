@@ -16,6 +16,7 @@
 
 A fully functioning web app with a Node.js/Express.js REST API/backend hosted on Heroku, a UI built with React and a PostgreSQL database hosted on AWS.
 
+<br/>
 [2D Side-Scrolling Platformer (Prototype)](http://www.studioschmiel.com/platformer.html)
 
 A 2D side-scrolling prototype written with Javascript and Bitmelo. Use the arrow keys to move around. ([Github](https://github.com/eschmiel/bitmelo-platformer-prototype))
