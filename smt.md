@@ -1,6 +1,6 @@
 ![Social Media Toggle by Eric Schmiel logo](https://eschmiel.github.io/smt-logo.png)
 
-## A web app built with React, Node.js, Express.js, Passport and PostgreSQL
+## A web app built with React, Node.js, Express.js, Passport, PostgreSQL, Typescript and Mocha
 
 ---
 [Web App](https://www.studioschmiel.com/socialMediaToggle.html) | [Github Repo (Backend)](https://github.com/eschmiel/smtBackendPublic) | [Github Repo (Frontend)](https://github.com/eschmiel/smtFrontendPublic)
