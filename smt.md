@@ -3,7 +3,7 @@
 ## A web app built with React, Node.js, Express.js, Passport, PostgreSQL, Typescript and Mocha
 
 ---
-[Web App](https://www.studioschmiel.com/socialMediaToggle.html) | [Github Repo (Backend)](https://github.com/eschmiel/smtBackendPublic) | [Github Repo (Frontend)](https://github.com/eschmiel/smtFrontendPublic)
+[Web App](https://smt-frontend-eschmiel.vercel.app/) | [Github Repo (Backend)](https://github.com/eschmiel/smtBackendPublic) | [Github Repo (Frontend)](https://github.com/eschmiel/smtFrontendPublic)
 
 ## What is it?
 
