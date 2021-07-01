@@ -39,3 +39,4 @@ Most of the combat tracker tools I had previously found online had unintuitive i
 ![Original UI Mockup Png](https://eschmiel.github.io/componentPlan.png)
 
 ## Use Case Documents
+![Initial design image](https://eschmiel.github.io/ctlInitialPlan.jpg) ![Use Case Diagram](https://eschmiel.github.io/useCaseDiagram.jpg) ![Use Case Document 1](https://eschmiel.github.io/useCase1.jpg) ![Use Case Document 2](https://eschmiel.github.io/useCase2.jpg)
