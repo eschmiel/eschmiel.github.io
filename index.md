@@ -16,6 +16,7 @@
 
 A lightweight, desktop browser-based webapp that helps dungeon masters run combat encounters in Dungeons and Dragons built with React, Typescript, Jest and React-Testing-Library 
 
+<br/>
 [The Social Media Toggle](https://eschmiel.github.io/smt)
 
 A fully functioning web app with a Node.js/Express.js REST API/backend hosted on Heroku, a UI built with React and a PostgreSQL database hosted on AWS.
