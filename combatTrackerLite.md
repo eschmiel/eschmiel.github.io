@@ -7,7 +7,7 @@
 
 ## What is Combat Tracker Lite?
 
-Combat Tracker Lite is a lightweight tool for running combat encounters in Dungeons and Dragons. It is primarily concerned with helping the Dungeon Master keep track of turn order and basic character information.
+Combat Tracker Lite is a lightweight tool for running combat encounters in Dungeons and Dragons. It is primarily concerned with helping the dungeon master keep track of turn order and basic character information.
 
 ## Why build Combat Tracker Lite?
 
