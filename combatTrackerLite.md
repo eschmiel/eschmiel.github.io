@@ -30,7 +30,7 @@ Most of the combat tracker tools I had previously found online had unintuitive i
 ### Features Include:
 
 - Combatants are automatically sorted in order of highest initiative, including groups.
-- Dead combatant names are crossed out when hp is 0
+- Dead combatant names are crossed out when HP is 0
 - Buttons light up on mouse over.
 - Sub-entries use the group’s initial HP and AC as defaults.
 
