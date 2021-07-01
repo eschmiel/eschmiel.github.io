@@ -17,7 +17,7 @@ When I first started running Dungeons and Dragons games, I found it difficult to
 
 Most of the combat tracker tools I had previously found online had unintuitive interfaces, were bloated with features and required setting up accounts. I wanted a combat tracker tool that I could effortlessly pull up in a web browser on a whim and start using immediately. So I decided to build my own, hence, Combat Tracker Lite.
 
-# Features Include:
+### Features Include:
 
 - Combatants are automatically sorted in order of highest initiative, including groups.
 - Dead combatant names are crossed out when hp is 0
