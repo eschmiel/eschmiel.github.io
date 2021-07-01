@@ -36,4 +36,6 @@ Most of the combat tracker tools I had previously found online had unintuitive i
 
 ## Original UI Mockups
 
+![Original UI Mockup Png](https://eschmiel.github.io/componentPlan.png)
+
 ## Use Case Documents
