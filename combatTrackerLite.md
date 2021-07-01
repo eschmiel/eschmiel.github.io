@@ -1,4 +1,4 @@
-![Combat Tracker Lite by Schmiel logo](https://eschmiel.github.io/ctl-logo.svg)
+![Combat Tracker Lite by Schmiel logo](https://eschmiel.github.io/combatTrackerLiteLogo.svg)
 
 ## A web app built with React, Typescript, Jest and React-Testing-Library
 
