@@ -4,7 +4,9 @@
 
 ---
 [Web App](https://combattrackerlite.vercel.app) | [Github Repo](https://github.com/eschmiel/combattrackerlite)
-<br>
+
+<br/>
+
 ![Combat Tracker Light Main Demo Gif](https://eschmiel.github.io/ctl-main-demo.gif)
 
 ## What is Combat Tracker Lite?
