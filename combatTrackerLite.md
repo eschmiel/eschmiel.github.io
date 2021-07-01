@@ -34,7 +34,7 @@ Most of the combat tracker tools I had previously found online had unintuitive i
 - Buttons light up on mouse over.
 - Sub-entries use the group’s initial HP and AC as defaults.
 
-## Original UI Mockups
+## Original UI Mockup
 
 ![Original UI Mockup Png](https://eschmiel.github.io/componentPlan.png)
 
