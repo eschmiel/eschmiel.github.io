@@ -17,6 +17,8 @@
 
 Combat Tracker Lite is a lightweight tool for running combat encounters in Dungeons and Dragons. It is primarily concerned with helping the dungeon master keep track of turn order and basic character information.
 
+<br/>
+
 ## Why build Combat Tracker Lite?
 
 When I first started running Dungeons and Dragons games, I found it difficult to keep track of turn order in combat. The primary issue was that the order you recorded players’ initiative rolls in wasn’t the same order players actually went in. While it is tedious to rewrite the list of all of the combatants on paper once you have the turn order figured out, this seemed like a problem that could easily be solved with automation.
