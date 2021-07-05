@@ -5,18 +5,16 @@
 ---
 [Web App](https://combattrackerlite.vercel.app) | [Github Repo](https://github.com/eschmiel/combattrackerlite)
 
+## What is Combat Tracker Lite?
+
+Combat Tracker Lite is a lightweight tool for running combat encounters in Dungeons and Dragons. It is primarily concerned with helping the dungeon master keep track of turn order and basic character information.
+
 <br/>
 <br/>
 
 ![Combat Tracker Light Main Demo Gif](https://eschmiel.github.io/ctl-main-demo.gif)
 
 <br/>
-<br/>
-
-## What is Combat Tracker Lite?
-
-Combat Tracker Lite is a lightweight tool for running combat encounters in Dungeons and Dragons. It is primarily concerned with helping the dungeon master keep track of turn order and basic character information.
-
 <br/>
 
 ## Why build Combat Tracker Lite?
