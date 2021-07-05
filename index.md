@@ -4,10 +4,8 @@
 > My technical focus is React and Node.js.
 
 >My most recent personal projects include: 
-
->1) A web app for live streamers to help them manage their going-live notifications on Twitter.
-
->2) A dynamically sorting table to help game masters run combat encounters in Dungeons and Dragons through a convenient, desktop browser-based web app.
+1) A web app for live streamers to help them manage their going-live notifications on Twitter.
+2) A dynamically sorting table to help game masters run combat encounters in Dungeons and Dragons through a convenient, desktop browser-based web app.
 
 [Resume](https://studioschmiel.com/resume.pdf)
 
