@@ -6,10 +6,10 @@
 > <br/>
 > My most recent personal projects include: 
 > <br/>
-> 1) A web app for live streamers to help them manage their going-live notifications on Twitter. <br/>
+> 1) A web app for live streamers to help them manage their going-live notifications on Twitter. <br/> <br/>
 > 2) A dynamically sorting table to help game masters run combat encounters in Dungeons and Dragons through a convenient, desktop browser-based web app.
 
-[Resume](https://studioschmiel.com/resume.pdf)
+[Resume](https://eschmiel.github.io/Eric-Schmiel-Resume-7-5-21.pdf)
 
 [Github](https://github.com/eschmiel)
 <br/>
