@@ -2,8 +2,9 @@
 
 >I am a web developer based in Richmond, Virginia with strong roots in my local game development community. I originally got the hands-on experience I needed to build my programming proficiency through game development and the influence of that foundation is clear in my web work. My personal work is currently focused on developing small tools for digital creatives and their communities that will help them manage their social media presences.
 > My technical focus is React and Node.js.
-
->My most recent personal projects include: 
+> <br/>
+> My most recent personal projects include: 
+> <br/>
 > 1) A web app for live streamers to help them manage their going-live notifications on Twitter. <br/>
 > 2) A dynamically sorting table to help game masters run combat encounters in Dungeons and Dragons through a convenient, desktop browser-based web app.
 
