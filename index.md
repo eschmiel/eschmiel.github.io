@@ -17,9 +17,14 @@
 
 ### Web Development Projects
 
+[Dividend Calendar](https://eschmiel.github.io/dividendCalendar)
+
+A web app that allows the user to see the projected future and past dividend payments of a stock displayed on a calendar built with React and Typescript.
+
+<br/>
 [Combat Tracker Lite](https://eschmiel.github.io/combatTrackerLite)
 
-A lightweight, desktop browser-based webapp that helps dungeon masters run combat encounters in Dungeons and Dragons built with React, Typescript, Jest and React-Testing-Library 
+A lightweight, desktop browser-based webapp that helps dungeon masters run combat encounters in Dungeons and Dragons built with React, Typescript, Jest and React-Testing-Library.
 
 <br/>
 [The Social Media Toggle](https://eschmiel.github.io/smt)
