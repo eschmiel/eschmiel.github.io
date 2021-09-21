@@ -5,7 +5,8 @@
 ---
 [Web App](https://ibo-financials.com/dividenduidemo/) | [Github Repo](https://github.com/eschmiel/dividend-calendar)
 <br/>
-Username: test Password: test
+Username: test <br/>
+Password: test
 
 ## What is it?
 
