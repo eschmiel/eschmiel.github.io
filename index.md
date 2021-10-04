@@ -6,6 +6,7 @@
 ><br/>
 >1) A web app for live streamers to help them manage their going-live notifications on Twitter. <br/>
 >2) A dynamically sorting table to help game masters run combat encounters in Dungeons and Dragons through a convenient, desktop browser-based web app.
+>3) A calendar tool that displays what days selected stocks will make their dividend payments and how much they'll pay on that day.
 
 [Resume](https://eschmiel.github.io/Eric-Schmiel-Resume-9-8-21.pdf)
 
