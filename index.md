@@ -43,7 +43,7 @@ A 2D side-scrolling prototype written with Javascript and Bitmelo. Use the arrow
 Hand coded a static website built with vanilla HTML5, CSS3 and Javascript for a game prototype made for the 2019 Emotional Mecha Jam. I served as the narrative designer on the project. ([Github](https://github.com/eschmiel/T57-001))
 
 <br/>
-[Local Library Test Site](https://fierce-shelf-75770.herokuapp.com/catalog)
+Local Library Test Site
 
 Built a practice local library site following the Mozilla Developer Network Express tutorial using Node.js, Express, MongoDB and Mongoose. Add yourself as an author so I know you visited! ([Github](https://github.com/eschmiel/expressTut))
 <br/>
