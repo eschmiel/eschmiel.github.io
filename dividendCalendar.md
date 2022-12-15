@@ -3,7 +3,7 @@
 ## A web app built with React and Typescript
 
 ---
-[Web App](https://ibo-financials.com/dividenduidemo/) | [Github Repo](https://github.com/eschmiel/dividend-calendar)
+[Github Repo](https://github.com/eschmiel/dividend-calendar)
 <br/>
 Username: test <br/>
 Password: test
